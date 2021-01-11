@@ -39,4 +39,4 @@ M People vibes.
 https://github.com/takesthebiscuit
 
 **Change notes:**
-> Version 0.1.0: M People vibes on objective success and round end (succesful only)
+> Version 1.0: M People vibes on objective success and round end (succesful only)
