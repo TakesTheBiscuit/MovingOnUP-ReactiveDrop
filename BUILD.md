@@ -21,3 +21,11 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=874942353
 ## Deviations
 
 Had to copy vpk.exe to `{drive}:\Steam\steamapps\common\Alien Swarm Reactive Drop\bin` as it requires some .dll files from that location.
+
+## Running vpk.exe
+- Open powershell -> admin
+- Run: `.\vpk MovingOnUP-ReactiveDrop -v`
+- Find movingonup.vpk file
+
+## Publishing
+Use in-game workshop -> upload tool
