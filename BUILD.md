@@ -29,3 +29,14 @@ Had to copy vpk.exe to `{drive}:\Steam\steamapps\common\Alien Swarm Reactive Dro
 
 ## Publishing
 Use in-game workshop -> upload tool
+
+**Name:**
+Moving on up
+
+***Description:**
+Moving on up.
+M People vibes.
+https://github.com/takesthebiscuit
+
+**Change notes:**
+> Version 0.1.0: M People vibes on objective success and round end (succesful only)
