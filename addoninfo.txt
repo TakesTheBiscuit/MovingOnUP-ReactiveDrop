@@ -1,0 +1,18 @@
+// The addoninfo.txt file is a metadata file that is required by all Source Engine Add-ons. 
+
+"AddonInfo"
+{
+     addonSteamAppID         563560                                                     // 563560 is the app ID for Alien Swarm: Reactive Drop
+     addontitle              "Moving on up"                             // Add-on title that shows up in Add-ons list. ~20 chars max
+     addonversion            1.0                                                     // Version number of add-on version of the form <major>.<minor>
+     addontagline            "This mod replaces the "Objective Complete" sound with "Moving on up" from M People"	// Add-on tagline or wrap-up- a short description. ~100 chars max
+     addonauthor             "TakesTheBiscuit"                                                 // Name/alias of the author
+     addonSteamGroupName     ""                                        	// (Optional) Steam group related to the add-on. We use this to construct a URL to the group page.
+     addonauthorSteamID      ""                                         // (Optional) Steam ID of author. We use this to construct a URL to the author's page.
+     addonContent_Campaign   0 	                                                     //This addon provides muliple connected maps with a finale
+	addonContent_Sound 	 1
+     addonURL0               ""  //An html home page for the add-on that includes a download link.
+ 
+     // short description that appears in the Add-on list screen...
+     addonDescription        "This mod replaces the "Objective Complete" sound with "Moving on up" from M People"
+}
